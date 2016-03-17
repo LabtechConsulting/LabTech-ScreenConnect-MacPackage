@@ -1,0 +1,30 @@
+﻿<LabTech_Expansion
+	Version="105.226"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId></ScriptId>
+				<FolderId></FolderId>
+				<ScriptName>ScreenConnect Mac Get GUID</ScriptName>
+				<ScriptNotes>This script will get the GUID of an unattended Mac machine.
+Chris Taylor
+labtechconsulting.com
+</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>1</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPQQuCQBSE70H/YX+Ai++l5iqPvVQEURAVdV7dd9jLKqtC/vtQCuw0zAzfwNDZ1ew73pveaHqMLWukeFa6DX7XDL7noIHihaPDu3VhYli/2HrurBkjcTJ+MGEUoCKxAUwFYomqBCWuF4oXDN3r4Nr+yaFzjZ/G/4Nvfxyc1SqrqqQqlEzA5hKRU1nkdSIBMMssICjY/vgZoHh5ab36AF80yCHiAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAOVaUW+bMBB+n7T/4Jes0iQGNhDIltJM7VJVqrSp0fZOwGmRCCBwpv78AYEUHOwkFIfSPYU7g4W/fHe+7/B04cReRG5sYlsfPwAw3dpJbqTmj2cS29no3MO+mwC5HPhlx/YaExxXfLd+uLT9imM72Z/0Ji8MLDiV647aXbcbz7VMfblUlxNTUhXXkCDEmjQxHFVSFKjrrgIVUxmXs+QP5O8sV1+6mG5BcLRbxXeHFC9QXBX++SbI7Ts3G6tY1UVCa5Q4McaBEwYBdshoKhf+6l3IUgo/qvlVCjKNsvUKWmFMslny38J3HQbECzY48++ui7Gfyb239vJHysti5C5wcUDsfKnpaNWsAvaCEQc0xAMNTdiwUQtFlH0GYKDxXyADWyCj9YfMmBNpKy9wgRxGRAZSkOYXcFELvc8XzbH3SgBR1zGnCcSPRywrecK+H+Nk4xNwCUYVk5G1XomcejpyEoKaoZnqWDN7wxAavHQ/YST4JjipZG/JhV+tw2jJ5YBWx9MieB1V5i3u0msoa++Gn9RqU47OKNdMCE/1YfLUUI7HkkFalUHU/Sdpyn6dez6eh5vAbaYuBfG4a5KqfZF0kUEDCoau7BQFVwgpjUGFNdTPVtCYQ6ISVHlc2guibik0GZJaQLxsZjDy197+kC8sfcFEfsBJuIkdnMjXvpd67u108qcXYfqFPBNG9mt+oDkRHqq+O1dsve3Ozahkm3TziJi9GrbQM29hs+bSG57WNLCSyPfIXztuR8lBCZoDCXSB806PGKq10C89dlu4qgUhVgblBy/NvE/2OvrGKAlnJS1nDDXzmP5TsFHDwM5FDOorTeaLzLJifiEoCQ5UsfA5qrAoWkOSZiQ6Lgla93hFOATsXKD0RsDdQjMS7gxBRGyhUt4CEbnSmWYKzUfE2pUvWVr5AUe+7eDF5VFaGXaucERyUQiUV4xqewfl1bFYdq6BhoYlHdGp6Kw2Lfjwoc7li0j4oMLbXvbKk2OrbcjgIlWFH0CyhW7pr+rmEpFa97ExjRRWTJ9CyM7Fi9DuD3ejFipeUOfipcc22V7S7xirztVHf0KP9XmKW0Tv7RFXCWN73c4za6yhUQtV0mNj4UBsbhwHJ4kYvg3qa8hxsSkqNDv/DDL00GwVmZ0rij5bfiIjc1ifTA71oco2lBjxrw7q24bJK2n1pTu2V9CWDHO5zE4WqpI5mexOFipQUZgNVCdcRxuC4xeY6cq39h+c1qxXByUb+B/Oq2e1wO3vuxuQYAJWYQxGJYbZqa4RsEnqydvSuS2GvMP6CnLGA4Pqe1IOc3EHNNRBqQZuaG5RAiQEj2lEbgP1uhKoYvAblFw45wkXtQ99UNrFYf9/GrGpD/svAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>85bb3b98-30d7-11e4-97c3-00155d010806</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+	</PackedScript>
+</LabTech_Expansion>

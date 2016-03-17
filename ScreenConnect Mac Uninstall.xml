@@ -1,0 +1,29 @@
+﻿<LabTech_Expansion
+	Version="105.226"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId></ScriptId>
+				<FolderId></FolderId>
+				<ScriptName>ScreenConnect Mac Uninstall</ScriptName>
+				<ScriptNotes>Uninstalls ScreenConnect from the MAC.
+Chris Taylor
+labtechconsulting.com</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>1</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPwQrCMBBE74L/kA9oySa6pciSi4oXBbGi57TZQw6mJU3B/r20KNTTMDO8gaGzbzj0fLDJGrqPHRtFcla6DWHfDiFxNEBy4ej47nycGDZPdoF7Z8dMVNwlftUchd5kQoNCgTssd4DieiG5gKhqou/Sg2Pv2zCt/wff/jR4Z0Bbq8utzQutXK4UY16zgxwAAQurAR3++Bkgufy0Xn0ApTWPSeMAAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAN2YW2vbMBiG7wf7D7opgYFmybZyGJno2JZSGGwssKvdKJbciTmykWXoYD9+iqN0jpNoSZvD3Bvb76cD0sMrS5/G00TLwnxghtGXLwAYL3VZCys/3hvNFqUTKTJegmBV8IVpNhdG6EbsJstnLGsElp19s5VkrigeB+uBtVo3leQUhYyFw5jBfog5xFgQOBMcQYQIIn0WIsLJqpe6QT3moDlo193UiOJhFu8S4wbgvlx8Uqla3/JFWUM1J4lbkw5bOmrpuKVJg0euDUV2vIu3i73PlZGqEov4w7cr+1x+knNZN1l9upJbxYUyrJ6MLW3KJpK/FDxYQh+WcPQ/g8EDL5nomZDBjyATX44M8pChqVQcBHlhAgCV/YWAXploIVSSKyUS86o3DlxNL0H6VZRVZlzl6CCc4bFXYHxCmj6b0fKHyDJdkwBvwVVDXu2H8UAjRl0ihweenzodbQdEt0EM/dBobefAVY7XCVIj5kWjT1eLrHGNnz/X6xaH6z3ZvmZF8QSypEtkvWu9NVu73nchPe6a73eJ4ADtT3CHUaPtxqSbLVu7Dn0zkZmY5JXi2w3bAjs4NthTbupea04XaIDzZcosBX4SKw67ZMUQk7MdEEddshKOfF7aWETHtRDuVvrV95Aqft5VRmYAwlxlv2BquZVWLN8bewP4DYwGve+qZx+oZ+U903e2gQIYQAT0HECZnob5I/KXCx5vDmDOpX4qcn0i5p1KcvZknub6TpgznXtwp5Kdoe/gQ2a8z1LM4GA4my2u1SI4HI0iiBAmhNsnQuGudCjJ50VlhJZ8z2zoX1g7leuQ+HyXPJdIVVbaXQD/AeOp2tYPFgAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>02aa284a-621d-11e5-bed0-005056a205d5</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+	</PackedScript>
+</LabTech_Expansion>

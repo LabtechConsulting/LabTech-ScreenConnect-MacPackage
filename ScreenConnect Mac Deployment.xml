@@ -1,0 +1,29 @@
+﻿<LabTech_Expansion
+	Version="105.226"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId></ScriptId>
+				<FolderId></FolderId>
+				<ScriptName>ScreenConnect Mac Deployment</ScriptName>
+				<ScriptNotes>This script will install screenconnect on a Mac computer.
+Chris Taylor
+labtechconsulting.com</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>1</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPwQrCMBBE74L/kA9oSFK71ZQlFxVBLIiK95juIZe0pA3Yv5cWhXoaZmfewuDFOwo9HexgDT7GjoxCMSveUti3KQwUjUSxcHh8dz5ODJm6DY0dM3ZOgZjMM5ZLVTBdwa6Ckl1rFIsy3l303fCk2Ps2TF//D9/8lHxjrHJFAVvHYQOaK0XAdy+tuZQgobS5hAZ+/AygWG5Zrz5K6Vuf2wAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAN2YUW/aMBDH3yftO/ilQpoUbCcxIROLiqBUaGhMjbZ3k7jUanCixFm3b18TDE3QyBhKQPQpuTvHsn+6s++fgR+kPJFjKqn38QMAg42dFYYy737LlK6jE86iMANwG/hOU7pikqUl330UL2iUef7ox8PsywBubR3eTP1TfcJj4eEBrDoqo+5zHnoUB7ZNnMAgFnENjBkx+gvXNRAiiPSoiUhItrMUHxQ7gOUt6Ol8yZLdOoaB1AvQb9o/yUVhT8N1rGSVt4z3EJh7trVn23s2ebP9OJUeUutdP7VvFAvJRc7W/t27js2zGV/x4pPtq45MRciEpMVmVLRslpG8UajBYtZgcdBhLt5NnN0MoDYqiDxX+80qKu8bexnFqyRXaaRHWFV43ue5P3piwbMO2+dlabXIEtv9syUZbhqM3SYYy63Jsr2EwI1yMq+pGLFZw6nhBLL+Hwy2L1daZyRjn0DGuRyZ+toK4xcRxTRspbjINRVXXQZ5Y42JiyVQ0zMmglgIFkjARSZpFO2us2YJ9q7qGO/VEAzyNAKd26JRvO0AIwYdmKT8F5UMylUCN1RHG6rdUcTVGn0m86SbPC/V+FkrfJ13w3eXh8BQwMDxbIEhabpkEsBWCPffDeGIqshTICOwPgkAnPFFStM/cFb4h0u1pAxm5cPBMB9Z6BCbOaFNKHb7RqxOkSUX3STimWyFt3tVvFHdofvIhcIcJxICQyjpCToVup86xwH0HliWR/LvcuNfbXTjAqNNnLVirUJhX65ZB+Ta/OshlebnQcCy7CiVhhtXI212TLWNQOUo3V7+xSLAZDid3Y27rVQ1blyntJmHJibnE7onCJUL/gKo78arRdVwCp2gWy7XjRP7fBnUuExp9cp0ahKoTxYLa6H6DAuFzvr3qW24TmAZCGFCQoRRH/XaSa7GhcoRVbi19a/sV0EB3QrZFgAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>a1c4457c-5359-11e5-8b99-005056a205d5</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+	</PackedScript>
+</LabTech_Expansion>
